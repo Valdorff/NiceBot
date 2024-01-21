@@ -1,0 +1,8 @@
+Hihi,
+
+If you recently started 3 Rocket Pool minipools, one has already dissolved and the other 2 are set to dissolve in ~14 hours. If you don't know how to resolve this, head to the Rocket Pool discord and ask for help in the #support channel.
+
+If you aren't a Rocket Pool node operator, I have misidentified you -- please ignore me.
+
+Cheers,
+  -Val
